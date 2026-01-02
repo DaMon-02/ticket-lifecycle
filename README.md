@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/cd554d85-c95a-4d06-ba3b-6a581f6473bd)
 
 <p>
-As shown above this is where I make a ticket as a an end user to give my wokers a real life scenario.
+As shown above this is where I make a ticket as a an end user to give my employees a real life scenario.
 </p>
 <br />
 
